@@ -37452,7 +37452,7 @@ a.u-link.u-text-hover-grey-90:hover {
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
-        --theme-sheet-width-xs: 320px;
+        --theme-sheet-width-xs: 300px;
         
         
         
@@ -37762,7 +37762,15 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 108px;
+  }
 
+  .u-header .u-menu-1 {
+    margin-right: 40px;
+  }
+}
  .u-footer {
   background-image: none;
 }
