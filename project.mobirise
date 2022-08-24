@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-22_1043",
+    "name": "Aurora Edutainment",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -47,14 +47,15 @@
     "versionPublish": "5.6.11",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/aurora-edutainmeint-128x43.png",
-    "mbrsiteDomain": "rf5e5og34y",
+    "favicon": "@PROJECT_PATH@/assets/images/aurora-edutainmeint-128x43_1.png",
+    "mbrsiteDomain": "5lctvdhzle",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-1DHCHE4Q6N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-1DHCHE4Q6N');\n</script>"
   },
   "pages": {
     "index.html": {
