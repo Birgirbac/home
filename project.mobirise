@@ -66,7 +66,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/aurora-edutainmeint-128x43-1.png"
       },
       "components": [
         {
