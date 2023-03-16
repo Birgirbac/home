@@ -2749,3 +2749,107 @@ a {
     left: -1rem;
   }
 }
+.cid-tyFEr5Sh0q {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/aurore-boreale-terre-magique-1920x1251.jpg");
+}
+.cid-tyFEr5Sh0q .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tyFEr5Sh0q .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tyFEr5Sh0q .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-tyFEr5Sh0q .mbr-section-title,
+.cid-tyFEr5Sh0q .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-tyFEr5Sh0q .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-tyFEr5Sh0q .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+}
+.cid-tyFEr5Sh0q .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tyFEr5Sh0q .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tyFEr5Sh0q .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tyFEr5Sh0q .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-tyFED34pNZ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/aurore-boreale-terre-magique-1920x1251.jpg");
+}
+.cid-tyFED34pNZ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tyFED34pNZ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tyFED34pNZ .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-tyFED34pNZ .mbr-section-title,
+.cid-tyFED34pNZ .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-tyFED34pNZ .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-tyFED34pNZ .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+}
+.cid-tyFED34pNZ .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tyFED34pNZ .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tyFED34pNZ .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tyFED34pNZ .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
