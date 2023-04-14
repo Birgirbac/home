@@ -2779,6 +2779,58 @@ a {
   background-color: #232323;
   overflow: hidden;
 }
+.cid-tBn5NiaLcn {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/aurore-boreale-terre-magique-1920x1251.jpg");
+}
+.cid-tBn5NiaLcn .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tBn5NiaLcn .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tBn5NiaLcn .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-tBn5NiaLcn .mbr-section-title,
+.cid-tBn5NiaLcn .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-tBn5NiaLcn .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-tBn5NiaLcn .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+}
+.cid-tBn5NiaLcn .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tBn5NiaLcn .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tBn5NiaLcn .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tBn5NiaLcn .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
 .cid-tyFEr5Sh0q {
   padding-top: 6rem;
   padding-bottom: 6rem;
